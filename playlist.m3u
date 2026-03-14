@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Big Buck Bunny",Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-name="Apple Test",Apple Test
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
+
+#EXTINF:-1 tvg-name="Sintel",Sintel Demo
+https://cdn.bitmovin.com/content/assets/sintel/hls/playlist.m3u8
